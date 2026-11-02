@@ -1,5 +1,5 @@
-name: ldsw_utilizacion_de_widgets
-description: LDSW Actividad 3.4 - Utilizacion de widgets (CineApp).
+name: ldsw_layouts
+description: LDSW Actividad 3.5 - Home screen con layouts en Flutter (CineApp).
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -17,3 +17,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/fondo.png
